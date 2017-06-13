@@ -10,5 +10,4 @@ int main()
         printf("but not here\n");
 
     return 0;
-    printf("hell world");
 }
